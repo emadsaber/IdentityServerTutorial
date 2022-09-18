@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nuJMLU1Pv9CcnAVFoLSjYya8s4A2CywhQ7a2Az5eDP8=",
+  "Source": "BankDotNet.API",
+  "BasePath": "_content/BankDotNet.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
