@@ -3,3 +3,8 @@
 /node_modules
 /.vs
 *.vsidx
+/BankOfDotNet/BankDotNet.API/obj
+/BankOfDotNet/BankDotNet.API/bin
+/BankOfDotNet/BankOfDotNet.IdentityServer/bin
+/BankOfDotNet/BankOfDotNet.IdentityServer/obj
+/BankOfDotNet/.vs
