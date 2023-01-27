@@ -8,4 +8,5 @@
 /BankOfDotNet/BankOfDotNet.IdentityServer/bin
 /BankOfDotNet/BankOfDotNet.IdentityServer/obj
 /BankOfDotNet/.vs
-/BankOfDotNet/BankOfDotNet.Console/bin/Debug/net6.0
+/BankOfDotNet/BankOfDotNet.Console/bin
+/BankOfDotNet/BankOfDotNet.Console/obj
