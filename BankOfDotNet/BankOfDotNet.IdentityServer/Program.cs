@@ -13,5 +13,7 @@ builder.Services
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+app.UseStaticFiles();
 app.UseIdentityServer();
+app.UseAuthorization();
 app.Run();
