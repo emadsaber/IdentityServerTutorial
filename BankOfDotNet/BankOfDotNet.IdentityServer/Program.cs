@@ -9,7 +9,8 @@ builder.Services
         .AddDeveloperSigningCredential()
         .AddInMemoryApiResources(Config.GetApiResources())
         .AddInMemoryApiScopes(Config.GetApiScopes())
-        .AddInMemoryClients(Config.GetClients());
+        .AddInMemoryClients(Config.GetClients())
+        .AddTestUsers(Config.GetTestUsers());
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
